@@ -4,7 +4,7 @@
 
 A website to measure your typing speed and accuracy along with the time elapsed
 
-Beginning 2021 on a simple note I have developed a simple project which measures the typing speed of an induvidual given a paragraph and an input paragraph. 
+Beginning 2021 on a simple note I have developed a simple project which measures the typing speed of an induvidual given an input paragraph. 
 
 ## How to play the game?
 
